@@ -4,7 +4,7 @@ ScribeBoard is a next-generation collaborative visual whiteboard and architectur
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Infinite Interactive Whiteboard**: Full-featured drawing canvas powered by Excalidraw with support for freehand drawing, geometric shapes, sticky notes, arrows, text, and rich color palettes.
 - **Domain-Adaptive AI Generation**: The assistant reads the request, chooses an appropriate visual form, and compiles it directly onto the canvas:
@@ -27,7 +27,7 @@ ScribeBoard is a next-generation collaborative visual whiteboard and architectur
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Framework**: Next.js 16 (App Router)
 - **Frontend UI**: React 19, Tailwind CSS v4, Base UI, Lucide Icons
@@ -39,7 +39,7 @@ ScribeBoard is a next-generation collaborative visual whiteboard and architectur
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -112,7 +112,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to start usi
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 ├── app/
@@ -139,7 +139,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to start usi
 
 ---
 
-## 📜 Available Scripts
+##  Available Scripts
 
 - `npm run dev`: Launch development server with Turbopack.
 - `npm run build`: Build production application bundle.
@@ -150,6 +150,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to start usi
 
 ---
 
-## 🔒 License
+## License
 
 MIT
